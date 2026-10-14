@@ -1,4 +1,4 @@
-# TLC-project
+# NYC Taxi & Limousine Commission: Fare Prediction Project
 
 ## 📊 Data Source
 
